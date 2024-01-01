@@ -1,6 +1,6 @@
-# Coffee Lovers - Home
+# Coffee Lovers Website
 
-Welcome to the [Coffee Lovers website](https://finalproject.oliviahan125.repl.co/index.html)! This site is dedicated to all things coffee, from its rich culture, history to the various ways it can be prepared and enjoyed.
+Welcome to the [Coffee Lovers website](https://finalproject.oliviahan125.repl.co/index.html)! This site is dedicated to all things about coffee, from its rich culture, history to the various ways it can be prepared and enjoyed.
 
 ## About the Project
 
